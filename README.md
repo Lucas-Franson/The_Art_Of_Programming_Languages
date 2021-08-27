@@ -35,6 +35,12 @@ This repository is a way to save my progress in the study of programming languag
     - Static and dynamic allocation
     - Files 
 
+- Special Things
+    - CRUD
+    - Design patterns
+    - Best practices
+    - Test
+
 ## Books to Read
 
 - [x] Fragmentos de um programador (Phil Calçado)
